@@ -3,7 +3,7 @@
 <p>I'm <strong>Vidushi Rastogi</strong>. I am a passionate women engineer dedicated to making a positive impact in the tech industry.</p>
 <p> 🔭I am thrilled to be part of a collaborative team where I can apply my skills to solve complex problems and develop innovative solutions. Making a positive impact through technology is my driving force, and I am eager to contribute to projects that have real-world significance. I strongly believe in the power of diversity and inclusion and strive to create inclusive and accessible solutions that benefit everyone.</p>
 
-<strong>🧠Skills:-</strong> JAVA, Python, SQL, HTML, CSS, JavaScript, Django, Object-Oriented Programming, Data Structure, Artificial Intelligence, Machine Learning, Natural Language Processing & Database Management.
+<strong>🧠Skills:-</strong> JAVA, Python, SQL, Object-Oriented Programming, Data Structure, Artificial Intelligence, Machine Learning, Natural Language Processing & Database Management.
 
 <li><b>🎓Final year BTech student | Eager to contribute to the Tech Industry.</li></b>
 <li><b>📫Reach me through mail:- rastogividushi6@gmail.com</li></b>
